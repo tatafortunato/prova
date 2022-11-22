@@ -1,5 +1,14 @@
 # prova
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura</title> 
+<link rel="stylesheet" href="style.css">
+  
+ </>
 
+    <body>
 <title>Copa do Mundo Catar 2022</title>
 
 <p>"A Copa do Mundo é o principal evento de futebol e é realizada a cada quatro anos. O Catar (ou Qatar) foi escolhido como a sede do torneio em 2022, apresentando uma competição totalmente diferente das edições anteriores."
@@ -33,4 +42,4 @@
 <p>"Estádio Education City (Doha)"</p>
 <p>"Estádio 974 ou Ras Abu Aboud (Doha)"</em></p>
 
-
+</
