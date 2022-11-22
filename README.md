@@ -18,3 +18,19 @@ Doha é a capital do Catar e a cidade mais populosa do país, com cerca de 1,3 m
 
 Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de 31 mil habitantes e fica a 40 km da capital, no sul do país."
 
+"Estádios da Copa do Mundo no Catar"
+
+"A Copa do Mundo no Catar tem oito estádios para receber os jogos. Entre eles, apenas o Khalifa foi reformado e continuará com sua capacidade original de 40 mil lugares após o fim do torneio. Os outros sete estádios foram construídos. Entre eles, seis terão suas capacidades reduzidas após o mundial e um será desmontado. Depois da Copa, o Catar doará os assentos para estádios de outros países.
+
+Com a proximidade entre os estádios da Copa de 2022, os torcedores podem acompanhar mais de um jogo por dia. A maior distância será de 55 km, entre os estádios de Al Khor, que fica ao norte, e Al Wakrah, no sul. Veja o mapa a seguir:"
+
+"Estádio Khalifa (Doha)"
+"Estádio Al Janoub (Al Wakrah)"
+"Estádio Nacional Lusail (Lusail)"
+"Estádio Al Bayt (Al Khor)"
+"Estádio Ahmad bin Ali (Al Rayyan)"
+"Estádio Al Thumama (Doha)"
+"Estádio Education City (Doha)"
+"Estádio 974 ou Ras Abu Aboud (Doha)"
+
+
