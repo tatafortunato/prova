@@ -25,17 +25,17 @@
 
 <h1>"Cidades-sede da Copa do Catar"</h1>
 
-<p>"A Copa do Catar conta com cinco cidades como sedes: Doha (a capital), Al Khor, Al Rayyan, Al Wakrah e Lusail.</p>
+<p>"A Copa do Catar conta com cinco cidades como sedes:<em> Doha (a capital), Al Khor, Al Rayyan, Al Wakrah e Lusail.</p></em>
 
 <p>Doha é a capital do Catar e a cidade mais populosa do país, com cerca de 1,3 milhão de habitantes. A cidade está localizada na costa do Golfo Pérsico, no leste do país. Doha também é considerada o centro econômico do Catar.</p>
 
-<p>Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de 31 mil habitantes e fica a 40 km da capital, no sul do país."</p>
+<p>Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de <em>31 mil</em> habitantes e fica a <em>40 km da capital</em>, no sul do país."</p>
 
 <h1>"Estádios da Copa do Mundo no Catar"</h1>
 
 <p>"A Copa do Mundo no Catar tem oito estádios para receber os jogos. Entre eles, apenas o Khalifa foi reformado e continuará com sua capacidade original de 40 mil lugares após o fim do torneio. Os outros sete estádios foram construídos. Entre eles, seis terão suas capacidades reduzidas após o mundial e um será desmontado. Depois da Copa, o Catar doará os assentos para estádios de outros países.</p>
 
-<p>Com a proximidade entre os estádios da Copa de 2022, os torcedores podem acompanhar mais de um jogo por dia. A maior distância será de 55 km, entre os estádios de Al Khor, que fica ao norte, e Al Wakrah, no sul. Veja o mapa a seguir:"</p>
+<p>Com a proximidade entre os estádios da Copa de 2022, os torcedores podem acompanhar mais de um jogo por dia. A maior distância será de 55 km, entre os estádios de<em> Al Khor</em>, que fica ao norte, e <em>Al Wakrah,</em> no sul. :"</p>
 
 <em><p>"Estádio Khalifa (Doha)"</p>
 <p>"Estádio Al Janoub (Al Wakrah)"</p>
