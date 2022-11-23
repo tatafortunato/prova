@@ -5,17 +5,16 @@
 
 <html lang="pt-br">
 
-    <head>
+<head>
 
         <meta charset="UTF-8">
-
-        <title>Copa do Mundo Catar 2022</title> 
-
-<link rel="stylesheet" href="style.css">
+<title>Copa do Mundo Catar 2022</title> 
+  <link rel="stylesheet" href="style.css">
    <body>
  </>
 
-<title> Copa do Mundo Catar 2022</title>
+
+  <title> Copa do Mundo Catar 2022</title>
 
 <p>"A Copa do Mundo é o principal evento de futebol e é realizada a cada quatro anos. O Catar (ou Qatar) foi escolhido como a sede do torneio em 2022, apresentando uma competição totalmente diferente das edições anteriores."
 "Particularidades da Copa do Catar"</p>
