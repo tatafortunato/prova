@@ -25,7 +25,8 @@
 
 <strong><h1>"Cidades-sede da Copa do Catar"</h1></strong>
 
-<p>"A Copa do Catar conta com cinco cidades como sedes:<em><strong> Doha (a capital), Al Khor, Al Rayyan, Al Wakrah e Lusail.</p></strong></em>
+<p>"A Copa do Catar conta com cinco cidades como sedes:<em> Doha (a capital), Al Khor, Al Rayyan, Al Wakrah e Lusail.</p>
+</em>
 
 <p>Doha é a capital do Catar e a cidade mais populosa do país, com cerca de 1,3 milhão de habitantes. A cidade está localizada na costa do Golfo Pérsico, no leste do país. Doha também é considerada o centro econômico do Catar.</p>
 
