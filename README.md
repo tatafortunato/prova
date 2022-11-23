@@ -31,7 +31,7 @@
 
 <p>Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de <em>31 mil habitantes</em >que fica a <em>40 km da capital</em>, no sul do país."</p>
 
-<h1><strong>"Estádios da Copa do Mundo no Catar"<strong></h1>
+<h1><strong>"Estádios da Copa do Mundo no Catar"</strong></h1>
 
 <p>"A Copa do Mundo no Catar tem oito estádios para receber os jogos. Entre eles, apenas o Khalifa foi reformado e continuará com sua capacidade original de 40 mil lugares após o fim do torneio. Os outros sete estádios foram construídos. Entre eles, seis terão suas capacidades reduzidas após o mundial e um será desmontado. Depois da Copa, o Catar doará os assentos para estádios de outros países.</p>
 
