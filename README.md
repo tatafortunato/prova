@@ -13,7 +13,7 @@
  </>
 
 
-<title> <strong>Copa do Mundo Catar 2022</strong></title>
+<h1> <strong>Copa do Mundo Catar 2022</strong></h1>
 
 <p>"A Copa do Mundo é o principal evento de futebol e é realizada a cada quatro anos. O Catar (ou Qatar) foi escolhido como a sede do torneio em 2022, apresentando uma competição totalmente diferente das edições anteriores."
 "Particularidades da Copa do Catar"</p>
