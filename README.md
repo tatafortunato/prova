@@ -29,7 +29,7 @@
 
 <p>Doha é a capital do Catar e a cidade mais populosa do país, com cerca de 1,3 milhão de habitantes. A cidade está localizada na costa do Golfo Pérsico, no leste do país. Doha também é considerada o centro econômico do Catar.</p>
 
-<p>Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de <em>31 mil</em> habitantes e fica a <em>40 km da capital</em>, no sul do país."</p>
+<p>Al Khor fica localizada a 50 km de Doha e é uma cidade costeira, ao norte do país, com uma população aproximada de 31 mil habitantes. Com cerca de 20 km de distância da capital, Al Rayyan é um município de 450 mil habitantes e fica localizado no oeste do Catar. Al Wakrah tem cerca de <em>31 mil habitantes</em >que fica a <em>40 km da capital</em>, no sul do país."</p>
 
 <h1>"Estádios da Copa do Mundo no Catar"</h1>
 
