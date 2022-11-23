@@ -8,8 +8,8 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Copa do Mundo Catar 2022</title> 
-  <link rel="stylesheet" href="style.css">
+    <title>Copa do Mundo Catar 2022</title> 
+    <link rel="stylesheet" href="style.css">
    <body>
  </>
 
