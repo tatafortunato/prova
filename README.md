@@ -23,7 +23,7 @@
 <p>"A 22ª edição da Copa do Mundo foi a primeira realizada no Oriente Médio, entre os dias 20 de novembro e 18 de dezembro de 2022. Geralmente, o mundial de futebol é disputado em junho e julho, mas, devido às altas temperaturas do verão no Catar, que passam dos 40 ºC, houve essa mudança. Com isso, a realização da Copa de 2022 ficou no período do outono, quando o clima costuma ficar entre 25 ºC e 30 ºC."
 "Outra particularidade dessa Copa é a dimensão territorial do país-sede. O Catar ocupa uma área de apenas 11,6 mil km², bem menor que as dos países que receberam o evento nas edições anteriores: Rússia (17,1 milhões km²) e Brasil (8,5 milhões de km²). Por essa característica, as seleções não têm a necessidade de viajar de avião de uma cidade para outra e todos os trajetos para os jogos são realizados de ônibus, em poucos minutos."</p>
 
-<h1><strong>"Cidades-sede da Copa do Catar"</strong></h1>
+<strong><h1>"Cidades-sede da Copa do Catar"</h1></strong>
 
 <p>"A Copa do Catar conta com cinco cidades como sedes:<em> Doha (a capital), Al Khor, Al Rayyan, Al Wakrah e Lusail.</p></em>
 
